@@ -4,7 +4,7 @@ import react from '@vitejs/plugin-react'
 import tailwindcss from '@tailwindcss/vite'
 
 export default defineConfig({
-  base: '/world-time/',
+  base: '/World-time/',
   plugins: [
     react(),
     tailwindcss()
